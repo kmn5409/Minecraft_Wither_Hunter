@@ -1,0 +1,8 @@
+name: WitherHunter
+main: com.keanunichols.witherhunter.Main
+version: 1.0
+api-version: 1.13
+commands:
+   lightning:
+      description: witherhunter
+      useage:  /witherhunter
